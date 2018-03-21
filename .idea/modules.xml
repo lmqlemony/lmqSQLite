@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lmqSQLite.iml" filepath="$PROJECT_DIR$/lmqSQLite.iml" />
+      <module fileurl="file://E:\Android\AndroidStudioProjects\lmqSQLiteClone\app\app.iml" filepath="E:\Android\AndroidStudioProjects\lmqSQLiteClone\app\app.iml" />
+      <module fileurl="file://E:\Android\AndroidStudioProjects\lmqSQLiteClone\lmqSQLite.iml" filepath="E:\Android\AndroidStudioProjects\lmqSQLiteClone\lmqSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmqSQLiteClone.iml" filepath="$PROJECT_DIR$/lmqSQLiteClone.iml" />
     </modules>
   </component>
 </project>

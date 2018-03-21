@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                             Toast.makeText(MainActivity.this,
                                     "ID是" + long1 + "的图片添加成功！", Toast.LENGTH_SHORT).show();
                         }
-                        //更新下拉列表
+                        //pull更新下拉列表
                         updateSpinner();
                         break;
 
